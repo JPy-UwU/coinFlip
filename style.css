@@ -29,3 +29,10 @@ body {
     -webkit-perspective: 300px;
     perspective: 300px;
 }
+
+.stats {
+    text-align: right;
+    color: #101020;
+    font: 25px;
+    line-height: 25px;
+}
